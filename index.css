@@ -1,5 +1,16 @@
-html {
+#about{
+ color : green;
+ background-color: black;
+ font: italic;
+}
+#hit{
  color : red;
  background-color: black;
  font: italic;
+}
+#link{
+  size: 10ft;
+  color : green;
+  background-color: green;
+  font: italic;
 }
